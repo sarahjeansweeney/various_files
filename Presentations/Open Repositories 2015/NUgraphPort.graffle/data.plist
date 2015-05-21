@@ -2251,7 +2251,7 @@ File}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs30 \cf2 \expnd0\expndtw0\kerning0
-Common Collection}</string>
+Oridnary Collection}</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2606,7 +2606,7 @@ Key}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-05-20 12:49:04 +0000</string>
+	<string>2015-05-21 11:33:20 +0000</string>
 	<key>Modifier</key>
 	<string>Sarah Jean Sweeney</string>
 	<key>NotesVisible</key>
@@ -2685,10 +2685,8 @@ Key}</string>
 		<array>
 			<string>Canvas 1</string>
 		</array>
-		<key>FitInWindow</key>
-		<true/>
 		<key>Frame</key>
-		<string>{{0, 0}, {2560, 1377}}</string>
+		<string>{{0, 55}, {1280, 722}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -2698,15 +2696,15 @@ Key}</string>
 		<key>TopSlabHeight</key>
 		<real>401</real>
 		<key>VisibleRegion</key>
-		<string>{{-445.13011152416357, 0}, {1792.8401486988851, 1170.0000000000002}}</string>
+		<string>{{1, 623}, {781, 613}}</string>
 		<key>Zoom</key>
-		<real>1.1495726495726495</real>
+		<real>1</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>0.0</real>
 				<real>1</real>
+				<real>0.0</real>
 			</array>
 		</array>
 	</dict>
