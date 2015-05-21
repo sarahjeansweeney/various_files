@@ -83,8 +83,8 @@
 			<integer>0</integer>
 			<key>Points</key>
 			<array>
-				<string>{419.80544378396752, 278.62499963884932}</string>
-				<string>{419.86178003811574, 336.03125369949714}</string>
+				<string>{419.76117426465453, 278.62499999975665}</string>
+				<string>{419.76263662303029, 336.03125000249275}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -162,11 +162,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.824542</string>
+						<string>0.247059</string>
 						<key>g</key>
-						<string>0.518022</string>
+						<string>0.184314</string>
 						<key>r</key>
-						<string>0.168471</string>
+						<string>0.12549</string>
 					</dict>
 					<key>Width</key>
 					<real>1.5</real>
@@ -291,11 +291,11 @@ Photograph Collections}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.824542</string>
+						<string>0.247059</string>
 						<key>g</key>
-						<string>0.518022</string>
+						<string>0.184314</string>
 						<key>r</key>
-						<string>0.168471</string>
+						<string>0.12549</string>
 					</dict>
 					<key>CornerRadius</key>
 					<real>9</real>
@@ -351,11 +351,11 @@ Photograph Collections}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.824542</string>
+						<string>0.247059</string>
 						<key>g</key>
-						<string>0.518022</string>
+						<string>0.184314</string>
 						<key>r</key>
-						<string>0.168471</string>
+						<string>0.12549</string>
 					</dict>
 					<key>CornerRadius</key>
 					<real>9</real>
@@ -563,7 +563,7 @@ Photograph Collections}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
-Presentation 2}</string>
+2015 ASME Keynote}</string>
 			</dict>
 		</dict>
 		<dict>
@@ -630,7 +630,8 @@ Presentation 2}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
-RP 2}</string>
+Nonlinear Systems Modeling\
+(Simon, 2014)}</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1058,80 +1059,6 @@ Research Photographs}</string>
 			</dict>
 		</dict>
 		<dict>
-			<key>Bounds</key>
-			<string>{{109.67947383650352, 906.05768250407846}, {307.125, 167.9375}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>FitText</key>
-			<string>Clip</string>
-			<key>Flow</key>
-			<string>Clip</string>
-			<key>FontInfo</key>
-			<dict>
-				<key>Color</key>
-				<dict>
-					<key>b</key>
-					<string>0.247059</string>
-					<key>g</key>
-					<string>0.184314</string>
-					<key>r</key>
-					<string>0.129412</string>
-				</dict>
-				<key>Font</key>
-				<string>Helvetica-Bold</string>
-				<key>NSKern</key>
-				<real>0.0</real>
-				<key>Size</key>
-				<real>28</real>
-			</dict>
-			<key>ID</key>
-			<integer>1269</integer>
-			<key>Layer</key>
-			<integer>2</integer>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Color</key>
-					<dict>
-						<key>b</key>
-						<string>0.824542</string>
-						<key>g</key>
-						<string>0.518022</string>
-						<key>r</key>
-						<string>0.168471</string>
-					</dict>
-					<key>CornerRadius</key>
-					<real>9</real>
-					<key>Width</key>
-					<real>1.5</real>
-				</dict>
-			</dict>
-			<key>Text</key>
-			<dict>
-				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
-
-\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
-Presentations}</string>
-			</dict>
-			<key>TextPlacement</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>FontInfo</key>
@@ -1152,8 +1079,8 @@ Presentations}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{419.77848714972504, 400.84374987788431}</string>
-				<string>{419.82296151868667, 478.78001471419884}</string>
+				<string>{419.76001238850222, 400.84374999999989}</string>
+				<string>{419.7600553934862, 478.78001376427505}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1268,8 +1195,8 @@ Presentations}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{614.58936022395392, 518.37902215808458}</string>
-				<string>{678.75000016943943, 518.3910449961287}</string>
+				<string>{614.58936023679018, 518.34830571387374}</string>
+				<string>{678.75000000426462, 518.35021310186119}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1326,8 +1253,8 @@ Presentations}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{473.47295172840694, 557.59755016306747}</string>
-				<string>{550.47677530912711, 613.87424863338526}</string>
+				<string>{473.64500445982065, 557.59662074047378}</string>
+				<string>{550.89408857087335, 613.87096891549413}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1384,8 +1311,8 @@ Presentations}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{384.99262043430514, 557.71721509796873}</string>
-				<string>{333.18982545017383, 616.38484919928362}</string>
+				<string>{384.91814063887551, 557.71668432167212}</string>
+				<string>{333.00505769913957, 616.38275271102225}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1442,8 +1369,8 @@ Presentations}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{224.93706726328134, 544.03621212578958}</string>
-				<string>{165.71426427047001, 551.84665239454955}</string>
+				<string>{224.93693303857398, 543.76355116587104}</string>
+				<string>{165.71380745541882, 551.49114398338827}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1500,8 +1427,8 @@ Presentations}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{224.93855889553387, 489.78460721996953}</string>
-				<string>{165.71400958363199, 481.10317471193531}</string>
+				<string>{224.93818288052779, 490.48043319629357}</string>
+				<string>{165.71278626440417, 482.01042278824838}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1669,7 +1596,8 @@ Engineering Competencies\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
-2014 Engineering Conference Keynote}</string>
+Nonlinear Systems Modeling\
+(Simon, 2015)}</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2083,6 +2011,75 @@ Faculty}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
+			<string>{{109.67947383650352, 906.05768250407846}, {307.125, 167.9375}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Clip</string>
+			<key>Flow</key>
+			<string>Clip</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>b</key>
+					<string>0.247059</string>
+					<key>g</key>
+					<string>0.184314</string>
+					<key>r</key>
+					<string>0.129412</string>
+				</dict>
+				<key>Font</key>
+				<string>Helvetica-Bold</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>28</real>
+			</dict>
+			<key>ID</key>
+			<integer>1269</integer>
+			<key>Layer</key>
+			<integer>2</integer>
+			<key>Style</key>
+			<dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.824542</string>
+						<key>g</key>
+						<string>0.518022</string>
+						<key>r</key>
+						<string>0.168471</string>
+					</dict>
+					<key>CornerRadius</key>
+					<real>9</real>
+					<key>Width</key>
+					<real>1.5</real>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
+Presentations}</string>
+			</dict>
+			<key>TextPlacement</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Bounds</key>
 			<string>{{12.375, 9}, {815.625, 109.125}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
@@ -2364,11 +2361,11 @@ Smart Collection}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.824542</string>
+						<string>0.247059</string>
 						<key>g</key>
-						<string>0.518022</string>
+						<string>0.184314</string>
 						<key>r</key>
-						<string>0.168471</string>
+						<string>0.12549</string>
 					</dict>
 					<key>CornerRadius</key>
 					<real>9</real>
@@ -2606,7 +2603,7 @@ Key}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-05-21 11:33:20 +0000</string>
+	<string>2015-05-21 21:33:33 +0000</string>
 	<key>Modifier</key>
 	<string>Sarah Jean Sweeney</string>
 	<key>NotesVisible</key>
@@ -2685,6 +2682,8 @@ Key}</string>
 		<array>
 			<string>Canvas 1</string>
 		</array>
+		<key>FitInWindow</key>
+		<true/>
 		<key>Frame</key>
 		<string>{{0, 55}, {1280, 722}}</string>
 		<key>ShowInfo</key>
@@ -2696,15 +2695,15 @@ Key}</string>
 		<key>TopSlabHeight</key>
 		<real>401</real>
 		<key>VisibleRegion</key>
-		<string>{{1, 623}, {781, 613}}</string>
+		<string>{{-294.09135399673733, 0}, {1490.6525285481239, 1170}}</string>
 		<key>Zoom</key>
-		<real>1</real>
+		<real>0.52393162393162396</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>1</real>
 				<real>0.0</real>
+				<real>1</real>
 			</array>
 		</array>
 	</dict>
