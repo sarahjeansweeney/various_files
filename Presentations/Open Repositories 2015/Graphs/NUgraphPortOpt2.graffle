@@ -63,8 +63,66 @@
 	<key>GraphicsList</key>
 	<array>
 		<dict>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Font</key>
+				<string>Helvetica</string>
+				<key>Size</key>
+				<real>12</real>
+			</dict>
+			<key>Head</key>
+			<dict>
+				<key>ID</key>
+				<integer>4</integer>
+			</dict>
+			<key>ID</key>
+			<integer>1314</integer>
+			<key>Layer</key>
+			<integer>0</integer>
+			<key>Points</key>
+			<array>
+				<string>{426.13058568396889, 153.74972144798264}</string>
+				<string>{425.70640027056459, 184.87533783839703}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.494118</string>
+						<key>g</key>
+						<string>0.494118</string>
+						<key>r</key>
+						<string>0.494118</string>
+					</dict>
+					<key>HeadArrow</key>
+					<string>0</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+					<key>Width</key>
+					<real>3</real>
+				</dict>
+			</dict>
+			<key>Tail</key>
+			<dict>
+				<key>ID</key>
+				<integer>1183</integer>
+			</dict>
+		</dict>
+		<dict>
 			<key>Bounds</key>
-			<string>{{330.92987154903068, 1136.125}, {64.974371910095215, 32.625}}</string>
+			<string>{{363.63018431097601, 1025.800163132137}, {64.974371910095215, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -133,7 +191,7 @@ Query}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{76.5, 1121.625}, {652.5, 61.518588142332646}}</string>
+			<string>{{105.75, 1011.4814118576674}, {652.5, 61.518588142332646}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -215,9 +273,9 @@ Query}</string>
 			<integer>0</integer>
 			<key>Points</key>
 			<array>
-				<string>{382.9612455368042, 1068.6798945335547}</string>
-				<string>{786.66666666666663, 1067.3333333333333}</string>
-				<string>{786.66666666666663, 1002.6666666666666}</string>
+				<string>{428.1637544631958, 961.80489453355472}</string>
+				<string>{815.5, 961.5}</string>
+				<string>{815.875, 899}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -282,9 +340,9 @@ Query}</string>
 			<integer>0</integer>
 			<key>Points</key>
 			<array>
-				<string>{555.1875, 855.5625}</string>
-				<string>{744.66666666666663, 855.66666666666663}</string>
-				<string>{744, 788.39999999999998}</string>
+				<string>{600.3900089263916, 748.6875}</string>
+				<string>{798, 749.625}</string>
+				<string>{797.875, 681.125}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -327,67 +385,8 @@ Query}</string>
 			</dict>
 		</dict>
 		<dict>
-			<key>Class</key>
-			<string>LineGraphic</string>
-			<key>FontInfo</key>
-			<dict>
-				<key>Font</key>
-				<string>Helvetica</string>
-				<key>Size</key>
-				<real>12</real>
-			</dict>
-			<key>Head</key>
-			<dict>
-				<key>ID</key>
-				<integer>4</integer>
-			</dict>
-			<key>ID</key>
-			<integer>1200</integer>
-			<key>Layer</key>
-			<integer>0</integer>
-			<key>Points</key>
-			<array>
-				<string>{403.25334494604289, 189.74992575414677}</string>
-				<string>{403.53125, 229.25}</string>
-				<string>{403.46305127307812, 234.55345394062766}</string>
-			</array>
-			<key>Style</key>
-			<dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Color</key>
-					<dict>
-						<key>b</key>
-						<string>0.494118</string>
-						<key>g</key>
-						<string>0.494118</string>
-						<key>r</key>
-						<string>0.494118</string>
-					</dict>
-					<key>HeadArrow</key>
-					<string>0</string>
-					<key>Legacy</key>
-					<true/>
-					<key>TailArrow</key>
-					<string>0</string>
-					<key>Width</key>
-					<real>3</real>
-				</dict>
-			</dict>
-			<key>Tail</key>
-			<dict>
-				<key>ID</key>
-				<integer>1183</integer>
-			</dict>
-		</dict>
-		<dict>
 			<key>Bounds</key>
-			<string>{{16.348747253417969, 120.73141185766735}, {773.30250549316406, 66.018588142332646}}</string>
+			<string>{{190.44332093379137, 97.875}, {472.17688083648682, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -406,7 +405,7 @@ Query}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>45</real>
+				<real>35</real>
 			</dict>
 			<key>ID</key>
 			<integer>1183</integer>
@@ -446,7 +445,7 @@ Query}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs90 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs70 \cf2 \expnd0\expndtw0\kerning0
 Northeastern University}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -456,7 +455,7 @@ Northeastern University}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{16.348747253417969, 500.52195592883368}, {163.65125274658203, 66.018588142332646}}</string>
+			<string>{{43.42625617980957, 393.75}, {163.65125274658203, 66.018588142332646}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -479,7 +478,7 @@ Northeastern University}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1209</integer>
@@ -517,13 +516,13 @@ Northeastern University}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 Photograph Collections}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{184.09953665733337, 358.875}, {437.80092668533325, 84.375}}</string>
+			<string>{{228.62870508053658, 277.875}, {393.27175826212999, 75.375}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -544,7 +543,7 @@ Photograph Collections}</string>
 				<key>Font</key>
 				<string>Gotham-Bold</string>
 				<key>Size</key>
-				<real>30</real>
+				<real>25</real>
 			</dict>
 			<key>ID</key>
 			<integer>1262</integer>
@@ -582,14 +581,14 @@ Photograph Collections}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs60 \cf2 Department of Electrical and Computer Engineering}</string>
+\f0\b\fs50 \cf2 Department of Electrical and Computer Engineering}</string>
 			</dict>
 			<key>TextPlacement</key>
 			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{138.13500308990479, 237.55320592883368}, {529.72999382019043, 66.018588142332646}}</string>
+			<string>{{228.62870508053663, 187.875}, {393.27175826212999, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -606,7 +605,7 @@ Photograph Collections}</string>
 				<key>Font</key>
 				<string>Gotham-Bold</string>
 				<key>Size</key>
-				<real>40</real>
+				<real>30</real>
 			</dict>
 			<key>ID</key>
 			<integer>4</integer>
@@ -653,7 +652,7 @@ Photograph Collections}</string>
 				oqEAgfwAhpKEoqEAgRgBhpKEoqEAgTQBhpKEoqEAgVAB
 				hoaBAAiEBFsxZl2DzcxMPYaShJaWBk5TRm9udIaShISE
 				Bk5TRm9udB6UmSCEBVszMmNdBgAAABgAAAD//kcAbwB0
-				AGgAYQBtAC0AQgBvAGwAZACEAWYomwCbAZsAmwCGhoY=
+				AGgAYQBtAC0AQgBvAGwAZACEAWYemwCbAZsAmwCGhoY=
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
@@ -661,7 +660,7 @@ Photograph Collections}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs80 \cf2 College of Engineering}</string>
+\f0\b\fs60 \cf2 College of Engineering}</string>
 			</dict>
 			<key>TextPlacement</key>
 			<integer>2</integer>
@@ -687,10 +686,10 @@ Photograph Collections}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{382.9612455368042, 1005.1875}</string>
-				<string>{786.66666666666663, 1002.6666666666666}</string>
-				<string>{785.60000000000002, 508.39999999999998}</string>
-				<string>{643.24685955047607, 505.71875}</string>
+				<string>{428.1637544631958, 898.3125}</string>
+				<string>{815.875, 899}</string>
+				<string>{815.89885807504072, 398.64695592883368}</string>
+				<string>{688.44936847686768, 398.84375}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -753,10 +752,10 @@ Photograph Collections}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{555.1875, 788.0625}</string>
-				<string>{744, 788.39999999999998}</string>
-				<string>{744.33333333333337, 626.33333333333337}</string>
-				<string>{540.07483696937561, 625.88429407116632}</string>
+				<string>{600.3900089263916, 681.1875}</string>
+				<string>{797.875, 681.125}</string>
+				<string>{797, 518.375}</string>
+				<string>{585.27734589576721, 519.00929407116632}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -800,7 +799,7 @@ Photograph Collections}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{235.85786054496077, 1042.2423945335547}, {294.20676998368685, 52.875}}</string>
+			<string>{{281.06036947135237, 935.36739453355472}, {294.20676998368685, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -823,7 +822,7 @@ Photograph Collections}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>28</real>
+				<real>18</real>
 			</dict>
 			<key>ID</key>
 			<integer>1287</integer>
@@ -861,14 +860,14 @@ Photograph Collections}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs36 \cf2 \expnd0\expndtw0\kerning0
 2015 ASME Keynote\
 (Simon, 2015)}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{408.08411500815657, 761.625}, {294.20676998368685, 52.875}}</string>
+			<string>{{453.28662393454817, 654.75}, {294.20676998368685, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -891,7 +890,7 @@ Photograph Collections}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>28</real>
+				<real>18</real>
 			</dict>
 			<key>ID</key>
 			<integer>1286</integer>
@@ -929,7 +928,7 @@ Photograph Collections}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs36 \cf2 \expnd0\expndtw0\kerning0
 Nonlinear Systems Modeling\
 (Simon, 2014)}</string>
 			</dict>
@@ -955,8 +954,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{219.85699459743344, 836.45290592160745}</string>
-				<string>{170.97287266508542, 859.43330867590953}</string>
+				<string>{262.87422354235338, 727.61170667022805}</string>
+				<string>{202.76147833912967, 753.32907777181947}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1013,8 +1012,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{215.56879921709506, 785.9140038800349}</string>
-				<string>{189.158979609093, 779.29094831244743}</string>
+				<string>{260.76038771860772, 681.49529922334477}</string>
+				<string>{216.23889637529092, 671.83167833989603}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1071,8 +1070,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{303.37873007525718, 838.58233630483051}</string>
-				<string>{345.7964927147035, 936.43113643250115}</string>
+				<string>{348.52435447644797, 731.70817156905639}</string>
+				<string>{390.77940927604959, 829.55741477140054}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1129,8 +1128,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{361.42122958705642, 804.03719037204257}</string>
-				<string>{387.75002617467254, 803.97958590463702}</string>
+				<string>{406.6232738977435, 699.14486890814953}</string>
+				<string>{432.95258706563783, 699.80287360952445}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1168,7 +1167,7 @@ Nonlinear Systems Modeling\
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{15.547491073608398, 726.75}, {172.14748764038086, 66.018588142332646}}</string>
+			<string>{{42.625, 619.97804407116632}, {172.14748764038086, 66.018588142332646}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1191,7 +1190,7 @@ Nonlinear Systems Modeling\
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1272</integer>
@@ -1229,13 +1228,13 @@ Nonlinear Systems Modeling\
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 Research Photographs}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{16.348747253417969, 860.0625}, {163.65125274658203, 66.018588142332646}}</string>
+			<string>{{43.42625617980957, 753.29054407116632}, {163.65125274658203, 66.018588142332646}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1258,7 +1257,7 @@ Research Photographs}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1271</integer>
@@ -1296,7 +1295,7 @@ Research Photographs}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 3D Printing Plans}</string>
 			</dict>
 		</dict>
@@ -1321,8 +1320,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{403.02422769549315, 306.57179339214076}</string>
-				<string>{403.05739977477174, 355.87500242032968}</string>
+				<string>{425.2645966019258, 243.75}</string>
+				<string>{425.2645966019258, 274.875}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1379,8 +1378,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{336.78693634995528, 671.52436685918701}</string>
-				<string>{301.006366968343, 769.77804634528536}</string>
+				<string>{381.99408174262561, 564.64942277170655}</string>
+				<string>{346.23160993120285, 662.90334729266669}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1437,8 +1436,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{502.59429853307449, 444.44812325164992}</string>
-				<string>{586.73234395655311, 481.10063844217541}</string>
+				<string>{546.34872012223366, 354.1611516588199}</string>
+				<string>{609.61239495558414, 374.32805898474419}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1495,8 +1494,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{430.28363009835903, 445.81144738600022}</string>
-				<string>{519.42834989990058, 592.02118420466661}</string>
+				<string>{456.75208929550075, 355.60829831202301}</string>
+				<string>{558.65973720305419, 485.21441044077682}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1553,8 +1552,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{392.50869012520809, 446.17201371546776}</string>
-				<string>{351.80791946156671, 621.17322847255843}</string>
+				<string>{419.07234528695437, 356.21579280971719}</string>
+				<string>{394.99572174148665, 514.2836643460206}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1611,8 +1610,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{353.43665256207555, 445.24630746985758}</string>
-				<string>{192.7409881554843, 588.50027767988513}</string>
+				<string>{377.11511891026913, 355.15541244700751}</string>
+				<string>{223.13006277570358, 481.77606768229379}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1669,8 +1668,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{303.50396433767582, 444.44914119771749}</string>
-				<string>{175.22257830328556, 500.38803797054152}</string>
+				<string>{320.85357788097161, 354.29336723539615}</string>
+				<string>{206.57400097019894, 396.68494334024149}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1708,7 +1707,7 @@ Research Photographs}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{408.08411500815657, 829.125}, {294.20676998368685, 52.875}}</string>
+			<string>{{453.28662393454817, 722.25}, {294.20676998368685, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1731,7 +1730,7 @@ Research Photographs}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>28</real>
+				<real>18</real>
 			</dict>
 			<key>ID</key>
 			<integer>1231</integer>
@@ -1769,14 +1768,14 @@ Research Photographs}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs36 \cf2 \expnd0\expndtw0\kerning0
 Engineering Competencies\
 (Simon, 2010) }</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{235.85786054496077, 978.75}, {294.20676998368685, 52.875}}</string>
+			<string>{{281.06036947135237, 871.875}, {294.20676998368685, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1799,7 +1798,7 @@ Engineering Competencies\
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>28</real>
+				<real>18</real>
 			</dict>
 			<key>ID</key>
 			<integer>1230</integer>
@@ -1837,14 +1836,14 @@ Engineering Competencies\
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs36 \cf2 \expnd0\expndtw0\kerning0
 Nonlinear Systems Modeling\
 (Simon, 2015)}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{217.0237455368042, 771.1875}, {142.89748764038086, 66.018588142332646}}</string>
+			<string>{{262.2262544631958, 664.3125}, {142.89748764038086, 66.018588142332646}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1867,7 +1866,7 @@ Nonlinear Systems Modeling\
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1229</integer>
@@ -1905,13 +1904,13 @@ Nonlinear Systems Modeling\
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 Professor Simon}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{389.25, 720.03125}, {331.875, 169.875}}</string>
+			<string>{{434.4525089263916, 613.15625}, {331.875, 169.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1934,7 +1933,7 @@ Professor Simon}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1228</integer>
@@ -1977,7 +1976,7 @@ Professor Simon}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 Research Publications}</string>
 			</dict>
 			<key>TextPlacement</key>
@@ -1985,7 +1984,7 @@ Research Publications}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{552.94874382019043, 481.5}, {180.59623146057129, 48.4375}}</string>
+			<string>{{598.15125274658203, 374.625}, {180.59623146057129, 48.4375}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2008,7 +2007,7 @@ Research Publications}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1221</integer>
@@ -2048,13 +2047,13 @@ Research Publications}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 Presentations}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{458.24921059608459, 592.875}, {163.65125274658203, 66.018588142332646}}</string>
+			<string>{{503.4517195224762, 486}, {163.65125274658203, 66.018588142332646}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2077,7 +2076,7 @@ Presentations}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1219</integer>
@@ -2117,13 +2116,13 @@ Presentations}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 Research Publications}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{68.625, 589.5}, {172.14748764038086, 66.018588142332646}}</string>
+			<string>{{95.702508926391602, 482.72804407116632}, {172.14748764038086, 66.018588142332646}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2146,7 +2145,7 @@ Research Publications}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1218</integer>
@@ -2184,13 +2183,13 @@ Research Publications}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 Departmental Newsletters}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{274.5, 622.14723312601961}, {142.89748764038086, 48.4375}}</string>
+			<string>{{319.7025089263916, 515.27223312601961}, {142.89748764038086, 48.4375}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2213,7 +2212,7 @@ Departmental Newsletters}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1216</integer>
@@ -2253,13 +2252,13 @@ Departmental Newsletters}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 Faculty}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{217.0237455368042, 937.80885501631315}, {331.875, 169.875}}</string>
+			<string>{{262.2262544631958, 830.93385501631315}, {331.875, 169.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2282,7 +2281,7 @@ Faculty}</string>
 				<key>NSKern</key>
 				<real>0.0</real>
 				<key>Size</key>
-				<real>25</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1269</integer>
@@ -2320,7 +2319,7 @@ Faculty}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs50 \cf2 \expnd0\expndtw0\kerning0
+\f0\b\fs40 \cf2 \expnd0\expndtw0\kerning0
 Presentations}</string>
 			</dict>
 			<key>TextPlacement</key>
@@ -2328,7 +2327,7 @@ Presentations}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{87.5, 1136.125}, {102.19497871398926, 32.625}}</string>
+			<string>{{120.20031276194538, 1025.800163132137}, {102.19497871398926, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2414,8 +2413,8 @@ Presentations}</string>
 			<integer>3</integer>
 			<key>Points</key>
 			<array>
-				<string>{402.49518699741992, 89.249954508438606}</string>
-				<string>{402.71701087292467, 117.73150449449227}</string>
+				<string>{426.45375563453314, 74.624997916471159}</string>
+				<string>{426.4875072624497, 94.875003389967972}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -2453,7 +2452,7 @@ Presentations}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{15.547491073608398, 14.625}, {773.30250549316406, 73.125}}</string>
+			<string>{{138.20424603404655, 12.375}, {576.39276411171647, 60.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2470,7 +2469,7 @@ Presentations}</string>
 				<key>Font</key>
 				<string>Gotham-Medium</string>
 				<key>Size</key>
-				<real>50</real>
+				<real>40</real>
 			</dict>
 			<key>ID</key>
 			<integer>1300</integer>
@@ -2513,7 +2512,7 @@ Presentations}</string>
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\i\fs100 \cf2 Digital Repository Service}</string>
+\f0\i\fs80 \cf2 Digital Repository Service}</string>
 				<key>VerticalPad</key>
 				<integer>1</integer>
 			</dict>
@@ -2522,7 +2521,7 @@ Presentations}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{669.0280464887619, 1136.125}, {41.625, 32.625}}</string>
+			<string>{{701.72835925070729, 1025.800163132137}, {41.625, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2589,7 +2588,7 @@ File}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{565.94874382019043, 1136.125}, {83.80125617980957, 32.625}}</string>
+			<string>{{598.64905658213581, 1025.800163132137}, {83.80125617980957, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2656,7 +2655,7 @@ Collection}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{415.08411500815657, 1136.125}, {131.34937191009521, 32.625}}</string>
+			<string>{{447.78442777010196, 1025.800163132137}, {131.34937191009521, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2723,7 +2722,7 @@ Smart Collection}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{213.5, 1136.125}, {101.25, 32.625}}</string>
+			<string>{{246.20031276194538, 1025.800163132137}, {101.25, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2818,6 +2817,8 @@ Community}</string>
 	<dict>
 		<key>GridInFront</key>
 		<string>YES</string>
+		<key>ShowsGrid</key>
+		<string>YES</string>
 	</dict>
 	<key>GuidesLocked</key>
 	<string>NO</string>
@@ -2898,7 +2899,7 @@ Community}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-06-02 18:21:52 +0000</string>
+	<string>2015-06-02 21:23:00 +0000</string>
 	<key>Modifier</key>
 	<string>Sarah Jean Sweeney</string>
 	<key>NotesVisible</key>
@@ -2977,26 +2978,28 @@ Community}</string>
 		<array>
 			<string>Canvas 1</string>
 		</array>
+		<key>FitInWindow</key>
+		<true/>
 		<key>Frame</key>
-		<string>{{9, 55}, {1673, 1362}}</string>
+		<string>{{0, 55}, {1280, 722}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
-		<true/>
+		<false/>
 		<key>SidebarWidth</key>
-		<integer>200</integer>
+		<integer>0</integer>
 		<key>TopSlabHeight</key>
 		<real>401</real>
 		<key>VisibleRegion</key>
-		<string>{{-126, 0}, {1174, 1253}}</string>
+		<string>{{-406.23327895595429, 0}, {1733.1533442088091, 1083}}</string>
 		<key>Zoom</key>
-		<real>1</real>
+		<real>0.56602031394275165</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>1</real>
 				<real>0.0</real>
+				<real>4</real>
 			</array>
 		</array>
 	</dict>
