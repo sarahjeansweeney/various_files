@@ -14,7 +14,7 @@
 	<key>BackgroundGraphic</key>
 	<dict>
 		<key>Bounds</key>
-		<string>{{0, 0}, {806, 1200}}</string>
+		<string>{{0, 0}, {852, 1083}}</string>
 		<key>Class</key>
 		<string>SolidGraphic</string>
 		<key>ID</key>
@@ -45,7 +45,7 @@
 	<key>CanvasOrigin</key>
 	<string>{0, 0}</string>
 	<key>CanvasSize</key>
-	<string>{806, 1200}</string>
+	<string>{852, 1083}</string>
 	<key>ColumnAlign</key>
 	<integer>1</integer>
 	<key>ColumnSpacing</key>
@@ -2792,7 +2792,7 @@ Community}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{5.9385227040695554, 6}, {792.52044223224175, 1189.875}}</string>
+			<string>{{5.9385227040695554, 6}, {841.18647729593044, 1065}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -2898,7 +2898,7 @@ Community}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-06-01 13:50:42 +0000</string>
+	<string>2015-06-02 18:21:52 +0000</string>
 	<key>Modifier</key>
 	<string>Sarah Jean Sweeney</string>
 	<key>NotesVisible</key>
@@ -2978,7 +2978,7 @@ Community}</string>
 			<string>Canvas 1</string>
 		</array>
 		<key>Frame</key>
-		<string>{{527, 55}, {1989, 1362}}</string>
+		<string>{{9, 55}, {1673, 1362}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -2988,7 +2988,7 @@ Community}</string>
 		<key>TopSlabHeight</key>
 		<real>401</real>
 		<key>VisibleRegion</key>
-		<string>{{-309, 0}, {1490, 1253}}</string>
+		<string>{{-126, 0}, {1174, 1253}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
