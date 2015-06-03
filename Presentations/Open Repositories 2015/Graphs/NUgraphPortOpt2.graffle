@@ -83,8 +83,8 @@
 			<integer>0</integer>
 			<key>Points</key>
 			<array>
-				<string>{426.13058568396889, 153.74972144798264}</string>
-				<string>{425.70640027056459, 184.87533783839703}</string>
+				<string>{426.11597119942928, 159.74970078617187}</string>
+				<string>{425.67633310313619, 190.87529342642677}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -122,7 +122,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{363.63018431097601, 1025.800163132137}, {64.974371910095215, 32.625}}</string>
+			<string>{{363.63018431097601, 1021.800163132137}, {64.974371910095215, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -191,7 +191,7 @@ Query}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{105.75, 1011.4814118576674}, {652.5, 61.518588142332646}}</string>
+			<string>{{105.75, 1007.4814118576674}, {652.5, 61.518588142332646}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -386,7 +386,7 @@ Query}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{190.44332093379137, 97.875}, {472.17688083648682, 52.875}}</string>
+			<string>{{190.44332093379137, 103.875}, {472.17688083648682, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -588,7 +588,7 @@ Photograph Collections}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{228.62870508053663, 187.875}, {393.27175826212999, 52.875}}</string>
+			<string>{{228.62870508053663, 193.875}, {393.27175826212999, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -954,8 +954,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{262.87422354235338, 727.61170667022805}</string>
-				<string>{202.76147833912967, 753.32907777181947}</string>
+				<string>{262.83576553907221, 727.56381581790072}</string>
+				<string>{202.61684567600909, 753.27191306165275}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1012,8 +1012,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{260.76038771860772, 681.49529922334477}</string>
-				<string>{216.23889637529092, 671.83167833989603}</string>
+				<string>{260.76015578499829, 681.55098938414301}</string>
+				<string>{216.23858634721137, 671.92138652271456}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1070,8 +1070,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{348.52435447644797, 731.70817156905639}</string>
-				<string>{390.77940927604959, 829.55741477140054}</string>
+				<string>{348.5416584347426, 731.70791767106834}</string>
+				<string>{390.84620689002742, 829.55702548757745}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1128,8 +1128,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{406.6232738977435, 699.14486890814953}</string>
-				<string>{432.95258706563783, 699.80287360952445}</string>
+				<string>{406.62373520495589, 697.54303719440566}</string>
+				<string>{432.95251485754801, 697.62288863100673}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1320,7 +1320,7 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{425.2645966019258, 243.75}</string>
+				<string>{425.2645966019258, 249.75000000000003}</string>
 				<string>{425.2645966019258, 274.875}</string>
 			</array>
 			<key>Style</key>
@@ -1373,13 +1373,13 @@ Research Photographs}</string>
 				<integer>1229</integer>
 			</dict>
 			<key>ID</key>
-			<integer>1244</integer>
+			<integer>1319</integer>
 			<key>Layer</key>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{381.99408174262561, 564.64942277170655}</string>
-				<string>{346.23160993120285, 662.90334729266669}</string>
+				<string>{366.14583587308761, 564.68100525121463}</string>
+				<string>{342.09212928674901, 662.85532344872843}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1412,7 +1412,7 @@ Research Photographs}</string>
 			<key>Tail</key>
 			<dict>
 				<key>ID</key>
-				<integer>1216</integer>
+				<integer>1317</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1544,16 +1544,16 @@ Research Photographs}</string>
 			<key>Head</key>
 			<dict>
 				<key>ID</key>
-				<integer>1216</integer>
+				<integer>1317</integer>
 			</dict>
 			<key>ID</key>
-			<integer>1265</integer>
+			<integer>1318</integer>
 			<key>Layer</key>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{419.07234528695437, 356.21579280971719}</string>
-				<string>{394.99572174148665, 514.2836643460206}</string>
+				<string>{415.65402761466169, 356.16935135681854}</string>
+				<string>{378.22904197460701, 514.29867649920038}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -2189,7 +2189,7 @@ Departmental Newsletters}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{319.7025089263916, 515.27223312601961}, {142.89748764038086, 48.4375}}</string>
+			<string>{{300.86890370616277, 515.27223312601961}, {142.89748764038086, 48.4375}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2215,7 +2215,7 @@ Departmental Newsletters}</string>
 				<real>20</real>
 			</dict>
 			<key>ID</key>
-			<integer>1216</integer>
+			<integer>1317</integer>
 			<key>Layer</key>
 			<integer>2</integer>
 			<key>Style</key>
@@ -2327,7 +2327,7 @@ Presentations}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{120.20031276194538, 1025.800163132137}, {102.19497871398926, 32.625}}</string>
+			<string>{{120.20031276194538, 1021.800163132137}, {102.19497871398926, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2413,8 +2413,8 @@ Presentations}</string>
 			<integer>3</integer>
 			<key>Points</key>
 			<array>
-				<string>{426.45375563453314, 74.624997916471159}</string>
-				<string>{426.4875072624497, 94.875003389967972}</string>
+				<string>{426.45098027388588, 78.62499812847021}</string>
+				<string>{426.48612808361429, 100.87500360455689}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -2452,7 +2452,7 @@ Presentations}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{138.20424603404655, 12.375}, {576.39276411171647, 60.75}}</string>
+			<string>{{138.20424603404655, 16.375}, {576.39276411171647, 60.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2521,7 +2521,7 @@ Presentations}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{701.72835925070729, 1025.800163132137}, {41.625, 32.625}}</string>
+			<string>{{701.72835925070729, 1021.800163132137}, {41.625, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2588,7 +2588,7 @@ File}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{598.64905658213581, 1025.800163132137}, {83.80125617980957, 32.625}}</string>
+			<string>{{598.64905658213581, 1021.800163132137}, {83.80125617980957, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2655,7 +2655,7 @@ Collection}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{447.78442777010196, 1025.800163132137}, {131.34937191009521, 32.625}}</string>
+			<string>{{447.78442777010196, 1021.800163132137}, {131.34937191009521, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2722,7 +2722,7 @@ Smart Collection}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{246.20031276194538, 1025.800163132137}, {101.25, 32.625}}</string>
+			<string>{{246.20031276194538, 1021.800163132137}, {101.25, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2899,7 +2899,7 @@ Community}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-06-02 21:23:00 +0000</string>
+	<string>2015-06-03 11:32:30 +0000</string>
 	<key>Modifier</key>
 	<string>Sarah Jean Sweeney</string>
 	<key>NotesVisible</key>
@@ -2978,8 +2978,6 @@ Community}</string>
 		<array>
 			<string>Canvas 1</string>
 		</array>
-		<key>FitInWindow</key>
-		<true/>
 		<key>Frame</key>
 		<string>{{0, 55}, {1280, 722}}</string>
 		<key>ShowInfo</key>
@@ -2991,15 +2989,15 @@ Community}</string>
 		<key>TopSlabHeight</key>
 		<real>401</real>
 		<key>VisibleRegion</key>
-		<string>{{-406.23327895595429, 0}, {1733.1533442088091, 1083}}</string>
+		<string>{{-30, 235}, {982, 613}}</string>
 		<key>Zoom</key>
-		<real>0.56602031394275165</real>
+		<real>1</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
+				<real>1</real>
 				<real>0.0</real>
-				<real>4</real>
 			</array>
 		</array>
 	</dict>
