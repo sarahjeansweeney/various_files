@@ -7,7 +7,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle6</string>
-		<string>167.4.0.248283</string>
+		<string>169.8.0.255486</string>
 	</array>
 	<key>AutoAdjust</key>
 	<false/>
@@ -83,8 +83,8 @@
 			<integer>0</integer>
 			<key>Points</key>
 			<array>
-				<string>{425.26069748251462, 91.249999933341456}</string>
-				<string>{425.23969596977611, 190.87500107220455}</string>
+				<string>{425.38014186506427, 91.249941078390407}</string>
+				<string>{425.55093411521074, 118.50016600387934}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -135,7 +135,7 @@
 				<key>ID</key>
 				<integer>1289</integer>
 				<key>Info</key>
-				<integer>1</integer>
+				<integer>2</integer>
 			</dict>
 			<key>ID</key>
 			<integer>1293</integer>
@@ -143,9 +143,8 @@
 			<integer>0</integer>
 			<key>Points</key>
 			<array>
-				<string>{428.1637544631958, 961.80489453355472}</string>
-				<string>{815.5, 961.5}</string>
-				<string>{815.875, 899}</string>
+				<string>{263.13096900515222, 593.73522404772689}</string>
+				<string>{443.27248764038086, 593}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -210,9 +209,9 @@
 			<integer>0</integer>
 			<key>Points</key>
 			<array>
-				<string>{600.3900089263916, 748.6875}</string>
-				<string>{798, 749.625}</string>
-				<string>{797.875, 681.125}</string>
+				<string>{619.3125, 500.9609375}</string>
+				<string>{799, 503.80532951417217}</string>
+				<string>{800, 437}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -323,7 +322,7 @@ Northeastern University}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{113.8275089263916, 1007.3533690609706}, {569.0474910736084, 61.518588142332646}}</string>
+			<string>{{142.00801581523058, 645.75}, {569.0474910736084, 61.518588142332646}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -384,7 +383,7 @@ Northeastern University}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{57.603970197929755, 380.625}, {163.65125274658203, 66.018588142332646}}</string>
+			<string>{{97.193469005152224, 268.19146048275832}, {163.65125274658203, 30.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -440,18 +439,18 @@ Northeastern University}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
-Photograph Collections}</string>
+Collection}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{228.62870508053658, 277.875}, {393.27175826212999, 75.375}}</string>
+			<string>{{228.62870508053658, 203.1875}, {393.27175826212999, 40.9375}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -472,7 +471,7 @@ Photograph Collections}</string>
 				<key>Font</key>
 				<string>Gotham-Bold</string>
 				<key>Size</key>
-				<real>12</real>
+				<real>20</real>
 			</dict>
 			<key>ID</key>
 			<integer>1262</integer>
@@ -505,17 +504,17 @@ Photograph Collections}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fnil\fcharset0 Gotham-Medium;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs24 \cf2 Department of Electrical and Computer Engineering}</string>
+\f0\b\fs40 \cf2 Community}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{228.62870508053663, 193.875}, {393.27175826212999, 52.875}}</string>
+			<string>{{228.62870508053663, 121.5}, {393.27175826212999, 48.4375}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -532,7 +531,7 @@ Photograph Collections}</string>
 				<key>Font</key>
 				<string>Gotham-Bold</string>
 				<key>Size</key>
-				<real>14</real>
+				<real>22</real>
 			</dict>
 			<key>ID</key>
 			<integer>4</integer>
@@ -568,27 +567,26 @@ Photograph Collections}</string>
 				<data>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
-				bmcBlIQBKxZDb2xsZWdlIG9mIEVuZ2luZWVyaW5nhoQC
-				aUkBFpKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkDkoSWlgdO
-				U0NvbG9yhpKEhIQHTlNDb2xvcgCUhAFjAoQEZmZmZoOt
-				rCw+g/r4eD6DoaCgPgGGkoSWlhBOU1BhcmFncmFwaFN0
-				eWxlhpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUA
-				hIQQTlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTAgCEhIQH
-				TlNBcnJheQCUmQyShISECU5TVGV4dFRhYgCUhAJDZgAc
-				hpKEo6IAOIaShKOiAFSGkoSjogBwhpKEo6IAgYwAhpKE
-				o6IAgagAhpKEo6IAgcQAhpKEo6IAgeAAhpKEo6IAgfwA
-				hpKEo6IAgRgBhpKEo6IAgTQBhpKEo6IAgVABhoYAhpKE
-				lpYGTlNGb250hpKEhIQGTlNGb250HpSZIIQFWzMyY10G
-				AAAAGAAAAP/+RwBvAHQAaABhAG0ALQBCAG8AbABkAIQB
-				Zg6bAJsBmwCbAIaGhg==
+				bmcBlIQBKwlDb21tdW5pdHmGhAJpSQEJkoSEhAxOU0Rp
+				Y3Rpb25hcnkAlIQBaQOShJaWB05TQ29sb3KGkoSEhAdO
+				U0NvbG9yAJSEAWMChARmZmZmg62sLD6D+vh4PoOhoKA+
+				AYaShJaWEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdOU011
+				dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFw
+				aFN0eWxlAJSEBENDQFMCAISEhAdOU0FycmF5AJSZDJKE
+				hIQJTlNUZXh0VGFiAJSEAkNmAByGkoSjogA4hpKEo6IA
+				VIaShKOiAHCGkoSjogCBjACGkoSjogCBqACGkoSjogCB
+				xACGkoSjogCB4ACGkoSjogCB/ACGkoSjogCBGAGGkoSj
+				ogCBNAGGkoSjogCBUAGGhgCGkoSWlgZOU0ZvbnSGkoSE
+				hAZOU0ZvbnQelJkghAVbMzJjXQYAAAAYAAAA//5HAG8A
+				dABoAGEAbQAtAEIAbwBsAGQAhAFmFpsAmwGbAJsAhoaG
 				</data>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fnil\fcharset0 Gotham-Medium;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs28 \cf2 College of Engineering}</string>
+\f0\b\fs44 \cf2 Community}</string>
 			</dict>
 		</dict>
 		<dict>
@@ -612,10 +610,12 @@ Photograph Collections}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{428.1637544631958, 898.3125}</string>
-				<string>{815.875, 899}</string>
-				<string>{815.89885807504072, 398.64695592883368}</string>
-				<string>{702.62708249498792, 385.71875}</string>
+				<string>{263.13096900515222, 530.24282951417217}</string>
+				<string>{443.27248764038086, 530}</string>
+				<string>{443.27248764038086, 593}</string>
+				<string>{813, 592.5}</string>
+				<string>{812.91564417177915, 276.046875}</string>
+				<string>{651.67311573028564, 276.5234375}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -678,10 +678,10 @@ Photograph Collections}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{600.3900089263916, 681.1875}</string>
-				<string>{797.875, 681.125}</string>
-				<string>{797, 518.375}</string>
-				<string>{599.45505991388745, 505.88429407116632}</string>
+				<string>{619.3125, 433.4609375}</string>
+				<string>{800, 437}</string>
+				<string>{799.5, 326}</string>
+				<string>{581.17311573028564, 324.359375}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -725,7 +725,7 @@ Photograph Collections}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{281.06036947135237, 935.36739453355472}, {294.20676998368685, 52.875}}</string>
+			<string>{{116.0275840133088, 567.29772404772689}, {294.20676998368685, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -781,7 +781,7 @@ Photograph Collections}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -793,7 +793,7 @@ Photograph Collections}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{453.28662393454817, 654.75}, {294.20676998368685, 52.875}}</string>
+			<string>{{472.20911500815657, 407.0234375}, {294.20676998368685, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -849,7 +849,7 @@ Photograph Collections}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -880,8 +880,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{262.83576553907221, 727.56381581790072}</string>
-				<string>{202.61684567600909, 753.27191306165275}</string>
+				<string>{326.80509913916217, 385.12286446971217}</string>
+				<string>{231.51150550679273, 414.02532577003956}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -895,11 +895,11 @@ Nonlinear Systems Modeling\
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>g</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>r</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 					</dict>
 					<key>HeadArrow</key>
 					<string>0</string>
@@ -938,8 +938,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{260.76015578499829, 681.55098938414301}</string>
-				<string>{216.23858634721137, 671.92138652271456}</string>
+				<string>{298.87709871799825, 375.33159994432458}</string>
+				<string>{266.59140972084776, 377.04127105764866}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -953,11 +953,11 @@ Nonlinear Systems Modeling\
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>g</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>r</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 					</dict>
 					<key>HeadArrow</key>
 					<string>0</string>
@@ -996,8 +996,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{348.5416584347426, 731.70791767106834}</string>
-				<string>{390.84620689002742, 829.55702548757745}</string>
+				<string>{362.8598066016811, 385.96324604807648}</string>
+				<string>{316.09183071196162, 461.58606950006873}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1011,11 +1011,11 @@ Nonlinear Systems Modeling\
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>g</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>r</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 					</dict>
 					<key>HeadArrow</key>
 					<string>0</string>
@@ -1054,8 +1054,8 @@ Nonlinear Systems Modeling\
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{406.62373520495589, 697.54303719440566}</string>
-				<string>{432.95251485754801, 697.62288863100673}</string>
+				<string>{414.92777171071339, 385.14102070873895}</string>
+				<string>{451.94618295506024, 396.88297997587784}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1069,11 +1069,11 @@ Nonlinear Systems Modeling\
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>g</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>r</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 					</dict>
 					<key>HeadArrow</key>
 					<string>0</string>
@@ -1093,7 +1093,7 @@ Nonlinear Systems Modeling\
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{42.625, 619.97804407116632}, {172.14748764038086, 66.018588142332646}}</string>
+			<string>{{92.94535155825281, 365.4296875}, {172.14748764038086, 30.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1149,18 +1149,18 @@ Nonlinear Systems Modeling\
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
-Research Photographs}</string>
+Collection}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{43.42625617980957, 753.29054407116632}, {163.65125274658203, 66.018588142332646}}</string>
+			<string>{{92.94535155825281, 414.45945592883368}, {172.14748764038086, 30.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1216,13 +1216,13 @@ Research Photographs}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
-3D Printing Plans}</string>
+Collection}</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1246,8 +1246,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{425.2645966019258, 249.75000000000003}</string>
-				<string>{425.2645966019258, 274.875}</string>
+				<string>{425.34439285469671, 172.93748710407877}</string>
+				<string>{425.42429340588848, 200.18756946382052}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1261,11 +1261,11 @@ Research Photographs}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>g</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 						<key>r</key>
-						<string>0.494118</string>
+						<real>0.494118</real>
 					</dict>
 					<key>HeadArrow</key>
 					<string>0</string>
@@ -1304,8 +1304,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{378.57021619881385, 552.01789425026254}</string>
-				<string>{344.31961408631042, 662.87938170839959}</string>
+				<string>{417.27743283057146, 308.14087043992885}</string>
+				<string>{382.21875734608358, 357.0327419815813}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1362,8 +1362,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{575.25289807523927, 353.99464615545691}</string>
-				<string>{613.49310734668131, 363.79309827400965}</string>
+				<string>{515.005347360526, 244.81340293552742}</string>
+				<string>{582.61088109069578, 260.75198609693325}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1420,8 +1420,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{461.77182638192414, 355.46335533815801}</string>
-				<string>{568.18574760150261, 471.76922299967629}</string>
+				<string>{459.45391779265475, 245.75343826276929}</string>
+				<string>{555.93341368203858, 308.10989160253979}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1478,8 +1478,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{417.7919826062822, 356.20053212997107}</string>
-				<string>{391.22627806393461, 500.67203104926938}</string>
+				<string>{426.62545716485573, 247.11996686240747}</string>
+				<string>{428.21634415007185, 274.54950882805593}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1536,8 +1536,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{376.75332054612102, 355.14664385034166}</string>
-				<string>{237.64531632391544, 468.6557721187113}</string>
+				<string>{391.63803565966657, 245.77356799017383}</string>
+				<string>{296.86623416290536, 308.10818633401453}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1594,8 +1594,8 @@ Research Photographs}</string>
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{312.94372528994649, 354.22645108550643}</string>
-				<string>{221.93220863398241, 385.55513626461806}</string>
+				<string>{337.95675537112635, 244.83212625309895}</string>
+				<string>{243.12619685512576, 267.83258564851275}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1633,7 +1633,7 @@ Research Photographs}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{453.28662393454817, 722.25}, {294.20676998368685, 52.875}}</string>
+			<string>{{472.20911500815657, 474.5234375}, {294.20676998368685, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1689,7 +1689,7 @@ Research Photographs}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -1701,7 +1701,7 @@ Engineering Competencies\
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{281.06036947135237, 871.875}, {294.20676998368685, 52.875}}</string>
+			<string>{{116.0275840133088, 503.80532951417217}, {294.20676998368685, 52.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1757,7 +1757,7 @@ Engineering Competencies\
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -1769,7 +1769,7 @@ Nonlinear Systems Modeling\
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{262.2262544631958, 664.3125}, {142.89748764038086, 66.018588142332646}}</string>
+			<string>{{300.375, 358.25}, {142.89748764038086, 26.4375}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1825,18 +1825,18 @@ Nonlinear Systems Modeling\
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
-Professor Simon}</string>
+Faculty User}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{434.4525089263916, 613.15625}, {331.875, 169.875}}</string>
+			<string>{{453.375, 365.4296875}, {331.875, 169.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1897,7 +1897,7 @@ Professor Simon}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -1910,7 +1910,7 @@ Research Publications}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{612.32896676470227, 361.5}, {180.59623146057129, 48.4375}}</string>
+			<string>{{561.375, 261.0859375}, {180.59623146057129, 30.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1966,18 +1966,18 @@ Research Publications}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
-Presentations}</string>
+Community Smart Collection}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{517.62943354059644, 472.875}, {163.65125274658203, 66.018588142332646}}</string>
+			<string>{{490.875, 308.921875}, {180.59623146057129, 30.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2033,18 +2033,18 @@ Presentations}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
-Research Publications}</string>
+Community Smart Collection}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{109.88022294451179, 469.60304407116632}, {172.14748764038086, 66.018588142332646}}</string>
+			<string>{{185.625, 308.921875}, {172.14748764038086, 30.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2100,18 +2100,18 @@ Research Publications}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
-Departmental Newsletters}</string>
+Collection}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{315.04661772428295, 502.14723312601961}, {142.89748764038086, 48.4375}}</string>
+			<string>{{357.77248764038086, 276.046875}, {142.89748764038086, 30.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2167,18 +2167,18 @@ Departmental Newsletters}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf2 \expnd0\expndtw0\kerning0
-Faculty}</string>
+Users}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{262.2262544631958, 830.93385501631315}, {331.875, 169.875}}</string>
+			<string>{{97.193469005152224, 462.86418453048532}, {331.875, 169.875}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2234,7 +2234,7 @@ Faculty}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -2247,7 +2247,7 @@ Presentations}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{127.92160602144861, 1021.800163132137}, {102.19497871398926, 32.625}}</string>
+			<string>{{156.14830301072436, 664.18097152834434}, {102.19497871398926, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2302,7 +2302,7 @@ Presentations}</string>
 				<key>Pad</key>
 				<real>0.0</real>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fnil\fcharset0 Gotham-Medium;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -2439,7 +2439,7 @@ Presentations}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{626, 1021.800163132137}, {41.625, 32.625}}</string>
+			<string>{{654.22669698927575, 664.18097152834434}, {41.625, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2495,7 +2495,7 @@ Presentations}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -2506,7 +2506,7 @@ File}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{522.39866960048676, 1021.800163132137}, {83.80125617980957, 32.625}}</string>
+			<string>{{550.62536658976251, 664.18097152834434}, {83.80125617980957, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2562,7 +2562,7 @@ File}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -2573,7 +2573,7 @@ Collection}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{371.5340407884529, 1021.800163132137}, {131.34937191009521, 32.625}}</string>
+			<string>{{399.76073777772865, 664.18097152834434}, {131.34937191009521, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2629,7 +2629,7 @@ Collection}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -2640,7 +2640,7 @@ Smart Collection}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{250.20031276194538, 1021.800163132137}, {101.25, 32.625}}</string>
+			<string>{{278.42700975122114, 664.18097152834434}, {101.25, 32.625}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2696,7 +2696,7 @@ Smart Collection}</string>
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
 {\fonttbl\f0\fnil\fcharset0 Gotham-Medium;}
 {\colortbl;\red255\green255\blue255;\red33\green47\blue63;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
@@ -2817,7 +2817,7 @@ Community}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-02-03 12:39:00 +0000</string>
+	<string>2016-05-12 14:51:35 +0000</string>
 	<key>Modifier</key>
 	<string>Sarah Jean Sweeney</string>
 	<key>NotesVisible</key>
@@ -2896,26 +2896,28 @@ Community}</string>
 		<array>
 			<string>Canvas 1</string>
 		</array>
+		<key>FitInWindow</key>
+		<true/>
 		<key>Frame</key>
-		<string>{{55, 0}, {1225, 722}}</string>
+		<string>{{269, 3}, {2235, 1414}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
-		<false/>
+		<true/>
 		<key>SidebarWidth</key>
-		<integer>0</integer>
+		<integer>200</integer>
 		<key>TopSlabHeight</key>
 		<real>401</real>
 		<key>VisibleRegion</key>
-		<string>{{-38, 0}, {928, 612}}</string>
+		<string>{{-295, 0}, {1442.6157975460121, 1083}}</string>
 		<key>Zoom</key>
-		<real>1</real>
+		<real>1.2040627885503232</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>1</real>
 				<real>0.0</real>
+				<real>2</real>
 			</array>
 		</array>
 	</dict>
