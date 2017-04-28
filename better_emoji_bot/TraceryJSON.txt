@@ -117,7 +117,6 @@
 "cursing at the sky",
 "pretending to know what a raspberry pi is",
 "recoiling in horror",
-"tending a garden",
 "trying to figure out Snapchat",
 "editing the Wikipedia entry for broccoli",
 "editing the Wikipedia entry for sushi",
@@ -129,7 +128,6 @@
 "making sausage",
 "herding cats",
 "deleting voicemails",
-"kicking a lamppost",
 "mixing cookie batter",
 "eating free samples at the supermarket",
 "doing advanced yoga",
@@ -156,8 +154,6 @@
 "learning to drive",
 "booking a Disney cruise",
 "rating McDonald's on Yelp",
-"running in slow motion on the beach",
-"listening to the news in slow French",
 "tying a knot",
 "dressing a wound",
 "disappearing into the fog",
@@ -214,7 +210,6 @@
 "pursuing a criminal",
 "giving a lecture",
 "building a time machine",
-"bombing on stage",
 "scrolling through microfilm",
 "reading Being and Nothingness",
 "griping about the new MacBook",
@@ -234,7 +229,6 @@
 		"drinking earl gray tea",
 		"drinking pink lemonade",
 		"drinking la croix",
-		"in a hot tub",
 		"eating an apricot"
 	]
 }
