@@ -108,7 +108,6 @@
 "a frog",
 "a gazelle",
 "a giraffe",
-"a gnu",
 "a goat",
 "a gopher",
 "a gorilla",
@@ -421,22 +420,11 @@
 "relaxing in a hot tub",
 "carving a turkey",
 "crushing a beer can",
+"summoning a demon",
+"being cursed by a witch",
+"being cursed by a warlock",
+"reading a book of spells",
+"putting a spell on you",
 "eating an apricot"
 	]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
