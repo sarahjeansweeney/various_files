@@ -277,8 +277,9 @@
 "lazing about",
 "lounging",
 "romping",
+"tiptoeing",
 "cavorting",
-"playing hide -and-seek",
+"playing hide-and-seek",
 "bounding"
 	],
 	"location": [
@@ -311,6 +312,8 @@
 "in a rain storm ⛈",
 "in a rain shower 🌦",
 "in a snow shower 🌨",
+"in heavy fog",
+"in a library 📚",
 "under cloudy skies ☁",
 "on a cloudy day ☁",
 "at dawn 🌞",
