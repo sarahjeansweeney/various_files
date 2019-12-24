@@ -296,7 +296,7 @@
 "a zombie"
 	],
 	"description": [
-"riding a gondola",
+"riding in a gondola",
 "sitting in a pumpkin patch",
 "carving a pumpkin",
 "trick-or-treating",
