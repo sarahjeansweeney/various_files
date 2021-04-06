@@ -12,7 +12,7 @@
 * _TouchThinkLearn: ABC_ by Xavier Deneux
 * _Touch and Feel Never Touch a Monster_
 * _Sesame Street: Elmo's ABC Lift-the-Flap_
-D_ear Zoo: A Lift-the-Flap Book_ by Rod Campbell (_Oh Dear!_ is good, too)
+* _Dear Zoo: A Lift-the-Flap Book_ by Rod Campbell (_Oh Dear!_ is good, too)
 * _Monsters Come Out Tonight!_ by Frederick Glasser
  
 # Can't go wrong classics, or classic stories
