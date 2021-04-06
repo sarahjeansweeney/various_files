@@ -23,15 +23,16 @@ D_ear Zoo: A Lift-the-Flap Book_ by Rod Campbell (_Oh Dear!_ is good, too)
 * _We're Going on a Bear Hunt_ by Helen Oxenbury
 * _The Snowy Day_ by Ezra Jack Keats
 * _Brown Bear, Brown Bear, What Do You See?_ by Bill Martin Jr.
+* _Goodnight Moon_ by Margaret Wise Brown
  
 # Could be good for 2+
 * _Dragons Love Tacos_ by Adam Rubin (and the sequel)
-* _Circle_ by Mac Barnett (this is part of a series, which I really love. I don't think it's for everyone, though)
+* _Circle_ by Mac Barnett (this is part of a shape series, which I really love. I don't think it's for everyone, though)
 * _Jazz Baby_ by Lisa Wheeler
 * _Click, Clack, Moo: Cows That Type_ by Doreen Cronin
 * _I Want My Hat Back_ by Jon Klassen (This is my go-to for a baby shower gift. It's fun and a little dark. It's loosely part of a "hat" series)
 * _No T. Rex in the Library_ by Toni Buzzeo
-* _Kitten's First Full Moon_ by Kevin Henkes (Janet gave me this one!)
+* _Kitten's First Full Moon_ by Kevin Henkes
 * _A Sick Day for Amos McGee_ by Philip C. Stead
 * _The Rabbit Listened_ by Cori Doerrfeld
 * _Bear Sees Colors_ and _Bear Counts_ by Karma Wilson
@@ -43,7 +44,7 @@ D_ear Zoo: A Lift-the-Flap Book_ by Rod Campbell (_Oh Dear!_ is good, too)
 * _Little Excavator_ by Anna Dewdney
  
 # Others
-* _Hippos Go Berserk!_ by Sandra Boynton (or any Sandra Boynton, really. Other good options include: Blue Hat, Green Hat, Dinosaur Dance, or Moo Baa La La La)
+* _Hippos Go Berserk!_ by Sandra Boynton (or any Sandra Boynton, really. Other good options include: _Blue Hat, Green Hat_, _Dinosaur Dance_, or _Moo Baa La La La_)
 * _I Love You Through and Through_ by Bernadette Rossetti-Shustak
 * _Will Sheep Sleep?_ by Hilary Leung (the physical book quality on this one isn't great, but it's a fun bedtime book)
 * _Jump!_ by Scott M. Fischer
