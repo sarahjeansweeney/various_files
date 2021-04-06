@@ -7,7 +7,7 @@
 * _Hot Dog, Cold Dog_ by Frann Preston-Gannon
 * _Grover (Sesame Street Friends)_ (This is part of a big series featuring Sesame Street characters. Grover, Elmo, and Oscar are the best of the ones we have)
  
-# Fun and interactive:
+# Fun and interactive
 * _Tap the Magic Tree_ by Christie Matheson
 * _TouchThinkLearn: ABC_ by Xavier Deneux
 * _Touch and Feel Never Touch a Monster_
@@ -15,7 +15,7 @@
 D_ear Zoo: A Lift-the-Flap Book_ by Rod Campbell (_Oh Dear!_ is good, too)
 * _Monsters Come Out Tonight!_ by Frederick Glasser
  
-# Can't go wrong classics, or classic stories:
+# Can't go wrong classics, or classic stories
 * _Good Night, Gorilla_ by Peggy Rathmann
 * _Each Peach Pear Plum_ by Allan Ahlberg
 * _Ten, Nine, Eight_ by Molly Bang
@@ -24,7 +24,7 @@ D_ear Zoo: A Lift-the-Flap Book_ by Rod Campbell (_Oh Dear!_ is good, too)
 * _The Snowy Day_ by Ezra Jack Keats
 * _Brown Bear, Brown Bear, What Do You See?_ by Bill Martin Jr.
  
-# Could be good for 2+:
+# Could be good for 2+
 * _Dragons Love Tacos_ by Adam Rubin (and the sequel)
 * _Circle_ by Mac Barnett (this is part of a series, which I really love. I don't think it's for everyone, though)
 * _Jazz Baby_ by Lisa Wheeler
@@ -36,7 +36,7 @@ D_ear Zoo: A Lift-the-Flap Book_ by Rod Campbell (_Oh Dear!_ is good, too)
 * _The Rabbit Listened_ by Cori Doerrfeld
 * _Bear Sees Colors_ and _Bear Counts_ by Karma Wilson
  
-# For kids who love trucks:
+# For kids who love trucks
 * _Busy Trucks on the Go_ by Eric Ode (could be 2+)
 * _I Love Trucks! Board Book_ by Philemon Sturges
 * _That's Not My Truck ... (Usborne Touchy-Feely Books)_
