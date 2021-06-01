@@ -36,6 +36,7 @@
 * _A Sick Day for Amos McGee_ by Philip C. Stead
 * _The Rabbit Listened_ by Cori Doerrfeld
 * _Bear Sees Colors_ and _Bear Counts_ by Karma Wilson
+* _Don't Let the Pigeon Drive the Bus_ Mo Willems
  
 # For kids who love trucks
 * _Busy Trucks on the Go_ by Eric Ode (could be 2+)
@@ -51,3 +52,4 @@
 * _Jump!_ by Scott M. Fischer
 * _All of Baby, Nose to Toes_ by Victoria Adler
 * _Llamaphones_ by Janik Coat (the others in this series are a lot of fun, too, but this one is my favorite. Another go-to baby shower gift for me)
+* _I Like You_ by Sandol Stoddard
