@@ -42,6 +42,7 @@
 * _I Love Trucks! Board Book_ by Philemon Sturges
 * _That's Not My Truck ... (Usborne Touchy-Feely Books)_
 * _Little Excavator_ by Anna Dewdney
+* _Construction Countdown_ by K. C. Olson
  
 # Others
 * _Hippos Go Berserk!_ by Sandra Boynton (or any Sandra Boynton, really. Other good options include: _Blue Hat, Green Hat_, _Dinosaur Dance_, or _Moo Baa La La La_)
