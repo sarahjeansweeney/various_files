@@ -58,6 +58,8 @@
 * _I Love You Just Like This!_ by Sesame Workshop
 * _Lizard from the Park_ by Mark Pett
 * _Llama Llama Red Pajama_ by Anna Dewdney
+* _Click, Clack, Surprise!_ by Doreen Cronin and Betsy Lewin
+* _Accident_ by Andrea Tsurumi
  
 # Others
 * _Up, Up, Up, Down!_ by Kimberly Gee
