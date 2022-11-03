@@ -10,6 +10,7 @@
 * _Dinosaurs Don't Have Bedtimes!_ by Timothy Knapman
 * _Escargot_ and _A Book for Escargot_ by Dashka Slater
 * _Roly Poly Pangolin_ and many others by Anna Dewdney
+* All the _Elephant & Piggie_ books from Mo Willems
 
 # Fun and interactive
 * _Tap the Magic Tree_ by Christie Matheson
@@ -60,6 +61,8 @@
 * _Llama Llama Red Pajama_ by Anna Dewdney
 * _Click, Clack, Surprise!_ by Doreen Cronin and Betsy Lewin
 * _Accident_ by Andrea Tsurumi
+* _Hooray for books!_ and _Hooray for hat!_ by Brian Won
+* _Leonardo, the Terrible Monster_ by Mo Willems
  
 # Others
 * _Up, Up, Up, Down!_ by Kimberly Gee
