@@ -48,7 +48,7 @@
 * _Please, Baby, Please_ by Spike Lee
 * _Dragons Love Tacos_ by Adam Rubin (and the sequel)
 * _Jazz Baby_ by Lisa Wheeler
-* _Click, Clack, Moo: Cows That Type_ by Doreen Cronin
+* _Click, Clack, Moo: Cows That Type_ and _Click, Clack, Surprise!_ by Doreen Cronin
 * _Kitten's First Full Moon_ by Kevin Henkes
 * _A Sick Day for Amos McGee_ by Philip C. Stead
 * _The Rabbit Listened_ by Cori Doerrfeld
@@ -59,10 +59,18 @@
 * _I Love You Just Like This!_ by Sesame Workshop
 * _Lizard from the Park_ by Mark Pett
 * _Llama Llama Red Pajama_ by Anna Dewdney
-* _Click, Clack, Surprise!_ by Doreen Cronin and Betsy Lewin
 * _Accident_ by Andrea Tsurumi
 * _Hooray for books!_ and _Hooray for hat!_ by Brian Won
 * _Leonardo, the Terrible Monster_ by Mo Willems
+* _Moose tracks!_ by Karma Wilson and Jack E. davis
+* _Go sleep in your own bed!_ by Candace Flemming and Lori Nichols
+* _This book will not be fun._ by Cirroco Dunlap and Olivier Tallec
+* _R is for robot_ by Adam F. Watkins
+* _Hooray for Hat!_ and _Hooray for Books!_ by Brian Won
+* Any "Maisy" book by Lucy Cousins (and her other stuff, too)
+* Any "Stanley" book by William Bee
+* Any "Froggy" book by Jonathan London and Frank Remkiewicz
+
  
 # Others
 * _Up, Up, Up, Down!_ by Kimberly Gee
