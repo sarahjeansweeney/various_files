@@ -27,6 +27,7 @@
 * _Ten, Nine, Eight_ by Molly Bang
 * _Will Sheep Sleep?_ by Hilary Leung (the physical book quality on this one isn't great, but it's a fun bedtime book)
 * _How Do Dinosaurs Say Good Night?_ by by Jane Yolen and Mark Teague
+* _Monsters Go Night-Night_ by Aaron Zenz
  
 # Can't go wrong classics, or classic stories
 * _Each Peach Pear Plum_ by Allan Ahlberg
